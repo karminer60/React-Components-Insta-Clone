@@ -6,6 +6,7 @@ import PostHeader from "./PostHeader";
 import React, { useState } from 'react';
 import "./Posts.css";
 
+
 // pass props in this file 
 const Post = props => {
   // set up state for the likes
