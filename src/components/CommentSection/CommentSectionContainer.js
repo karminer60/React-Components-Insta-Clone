@@ -7,7 +7,7 @@ import dummyData from "../../dummy-data.js";
 
 const CommentSection = props => {
   // Add state for the comments
-  //const [comment] = useState(0); 
+  //const [comment] = useState(props.post.comments); 
   
   return (
     <div>
